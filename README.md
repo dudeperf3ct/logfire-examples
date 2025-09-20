@@ -6,5 +6,4 @@ The following examples are used to test Logfire observability platform.
 * [`fastapi-app`](./fastapi-app/) : FastAPI application using SQLAlchmey database as backend.
 * [`llm-app`](./llm-app/) : Simple LLM FastAPI application.
 
-
-Blog: 
+Blog: [Pydantic Logfire is awesome 🔥](https://dudeperf3ct.github.io/posts/logfire_/)
